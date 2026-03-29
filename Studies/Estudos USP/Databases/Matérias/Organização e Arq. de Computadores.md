@@ -13,7 +13,7 @@ Semestre:
 | [[Arquitetura CISC x RISC]] |             |
 | [[Processo CPU x Memória]]  |             |
 | [[Introdução a Assembly]]   |             |
-|                             |             |
+| [[Procedimentos e Funções]] |             |
 
 
 #### Atividades e Provas

@@ -16,6 +16,7 @@ Semestre:
 | [[Organização em campos e registros]] |             |
 | [[Abordagem Estática]]                |             |
 | [[Sintaxe]]                           |             |
+| [[Trabalho I]]                        |             |
 
   
   
