@@ -1,6 +1,6 @@
 ---
 Course:
-  - https://www.notion.so/C-lculo-III-313fa7f60cd880d2a072c0acf7a9fdec?pvs=21
+  - "[[Cálculo III]]"
 Last Edited: 2026-03-09T19:11
 ---
 Na integral tripla — utilizando a ideia de integração em duas variáveis — estamos integrando as partições de um paralelepípedo, isto é, uma figura de três dimensões.

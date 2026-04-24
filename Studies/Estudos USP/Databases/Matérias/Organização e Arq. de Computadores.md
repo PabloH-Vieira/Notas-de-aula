@@ -10,8 +10,10 @@ Semestre:
 ### Notes
 | Name                        | Next Review |
 | --------------------------- | ----------- |
+|                             |             |
+| [[Introdução à matéria]]    |             |
 | [[Arquitetura CISC x RISC]] |             |
-| [[Processo CPU x Memória]]  |             |
+| [[Arquitetura de Von Neumann e Processo CPU x Memória]]  |             |
 | [[Introdução a Assembly]]   |             |
 | [[Procedimentos e Funções]] |             |
 

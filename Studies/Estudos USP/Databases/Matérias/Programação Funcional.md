@@ -9,6 +9,9 @@ Semestre:
 
 ### Notes
 
-| Name      | Next Review |
-| --------- | ----------- |
-| [[19/03]] |             |
+| Name       | Next Review |
+| ---------- | ----------- |
+| [[19/03]]  |             |
+| [[MONADs]] |             |
+| [[Tipos Personalizados]]  |             |
+|            |             |

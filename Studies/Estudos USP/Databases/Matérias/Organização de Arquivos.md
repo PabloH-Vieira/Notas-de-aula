@@ -17,6 +17,8 @@ Semestre:
 | [[Abordagem Estática]]                |             |
 | [[Sintaxe]]                           |             |
 | [[Trabalho I]]                        |             |
+| [[Indexação]]                         |             |
+| [[Árvores B]]                         |             |
 
   
   

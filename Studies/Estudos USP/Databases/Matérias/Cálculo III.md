@@ -11,15 +11,17 @@ Semestre:
 
 #### Aulas
 
-| Name                                      | Next Review |
-| ----------------------------------------- | ----------- |
-| [[Integrais Múltiplas]]                   |             |
-| [[Integral Dupla]]                        |             |
-| [[Integral Tripla]]                       |             |
-| [[Mudança de variável na integral dupla]] |             |
-| [[Soma de Riemann]]                       |             |
-| [[Transformações]]                        |             |
-| [[Massa e Centro de Massa]]               |             |
+| Name                                       | Next Review |
+| ------------------------------------------ | ----------- |
+| [[Integrais Múltiplas]]                    |             |
+| [[Integral Dupla]]                         |             |
+| [[Integral Tripla]]                        |             |
+| [[Mudança de variável na integral dupla]]  |             |
+| [[Soma de Riemann]]                        |             |
+| [[Transformações]]                         |             |
+| [[Massa e Centro de Massa]]                |             |
+| [[Campos Vetoriais]]                       |             |
+| [[Integrais de Linha em Campos Vetoriais]] |             |
 
   
   

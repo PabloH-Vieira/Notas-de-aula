@@ -1,7 +1,7 @@
-Recomendável no Linux (WSL).
+	Recomendável no Linux (WSL).
 Revisar alocação dinâmica e manipulação de arquivos.
 
-~~~
+~~~ c
 fopen();
 fclose();
 

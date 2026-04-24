@@ -7,7 +7,8 @@ Semestre:
 
 #### Aulas
 
-| Name             | Next Review |
-| ---------------- | ----------- |
+| Name               | Next Review |
+| ------------------ | ----------- |
 | [[Introdução POO]] |             |
+| [[POO em Python]]  |             |
 

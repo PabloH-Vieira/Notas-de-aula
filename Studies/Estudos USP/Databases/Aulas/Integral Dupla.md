@@ -61,3 +61,5 @@ Basicamente, integramos primeiro uma integral simples com uma das variáveis fix
 A escolha por integrar primeiro uma variável ou outra deve ser estratégica. Um macete é observar qual das variáveis descreve uma mesma função ao longo do contradomínio. Se observamos o gráfico e percebermos que teremos que dividir a integral em duas partes, pois o contradomínio descreve duas funções, então é uma má ideia começar por aquela variável.
 ![[Pasted image 20260316084256.png|524]]
 Nesse exemplo, o gráfico com relação a x não permanece a mesma durante o gráfico. Na verdade, ela é um retângulo, e depois um semicírculo. Por outro lado, y permanece um retângulo com um dos lados em curva (a mesma função). A melhor decisão é começar por y.
+
+## Coordenadas polares

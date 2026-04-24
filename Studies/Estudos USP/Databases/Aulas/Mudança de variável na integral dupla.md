@@ -13,8 +13,6 @@ Queremos calcular a área de C em função da área de S, seja S dada por $\Delt
 
 **Do cálculo I**
 
-**Do cálculo I**
-
 ![[imagem_2026-03-07_235122347.png]]
 
 Temos que um comprimento é dado pela derivada em função de um parâmetro.
